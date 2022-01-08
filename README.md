@@ -1,2 +1,2 @@
 # tableInfo
-# [live link](https://izunnaya.github.io/tableInfo/)
+# [live link](https://devraphe.github.io/tableInfo/)
